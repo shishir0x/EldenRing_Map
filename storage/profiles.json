@@ -1,0 +1,15 @@
+{
+  "activeProfileId": "slot_1",
+  "profiles": [
+    {
+      "id": "slot_1",
+      "name": "Tarnished (Slot 1)",
+      "createdAt": "2026-09-16T14:03:17.210Z",
+      "completedLocationIds": [
+        164411,
+        165620
+      ],
+      "customMarkers": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  elden-ring-map:
+    build: .
+    container_name: elden-ring-map
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data
+      - ./storage:/app/storage
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - CACHE_MAX_SIZE_MB=500
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 5s

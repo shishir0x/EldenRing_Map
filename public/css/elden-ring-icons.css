@@ -1,0 +1,411 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-whetblade:before {
+  content: "\e900";
+  color: #fff;
+}
+.icon-weapon:before {
+  content: "\e901";
+  color: #fff;
+}
+.icon-wandering_mausoleum:before {
+  content: "\e902";
+  color: #fff;
+}
+.icon-trinas_lilly:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-transition:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-trainer:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-tool:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-teardrop_scarab:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-talisman_pouch:before {
+  content: "\e908";
+  color: #fff;
+}
+.icon-talisman:before {
+  content: "\e909";
+  color: #fff;
+}
+.icon-summoning_sigil:before {
+  content: "\e90a";
+  color: #fff;
+}
+.icon-stonesword_key:before {
+  content: "\e90b";
+  color: #fff;
+}
+.icon-stone_cairn:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-stake_of_marika:before {
+  content: "\e90d";
+  color: #fff;
+}
+.icon-spiritspring_jump:before {
+  content: "\e90e";
+  color: #fff;
+}
+.icon-spirit_ashes:before {
+  content: "\e90f";
+  color: #fff;
+}
+.icon-spellbook:before {
+  content: "\e910";
+  color: #fff;
+}
+.icon-sorcery:before {
+  content: "\e911";
+  color: #fff;
+}
+.icon-somber_smithing_stone:before {
+  content: "\e912";
+  color: #fff;
+}
+.icon-smithing_table:before {
+  content: "\e913";
+  color: #fff;
+}
+.icon-smithing_stone:before {
+  content: "\e914";
+  color: #fff;
+}
+.icon-slumbering_egg:before {
+  content: "\e915";
+  color: #fff;
+}
+.icon-site_of_grace:before {
+  content: "\e916";
+  color: #d2b97c;
+}
+.icon-shield:before {
+  content: "\e917";
+  color: #fff;
+}
+.icon-scadutree_fragment:before {
+  content: "\e918";
+  color: #fff;
+}
+.icon-sacred_tear:before {
+  content: "\e919";
+  color: #fff;
+}
+.icon-sacramental_bud:before {
+  content: "\e91a";
+  color: #fff;
+}
+.icon-rune_arc:before {
+  content: "\e91b";
+  color: #fff;
+}
+.icon-ruin_fragment:before {
+  content: "\e91c";
+  color: #fff;
+}
+.icon-ritual_pot:before {
+  content: "\e91d";
+  color: #fff;
+}
+.icon-revered_spirit_ash:before {
+  content: "\e91e";
+  color: #fff;
+}
+.icon-remembrance:before {
+  content: "\e91f";
+  color: #fff;
+}
+.icon-rebirth_monument:before {
+  content: "\e920";
+  color: #fff;
+}
+.icon-quest:before {
+  content: "\e921";
+  color: #fff;
+}
+.icon-puzzle:before {
+  content: "\e922";
+  color: #fff;
+}
+.icon-portal:before {
+  content: "\e923";
+  color: #fff;
+}
+.icon-perfume_bottle:before {
+  content: "\e924";
+  color: #fff;
+}
+.icon-painting:before {
+  content: "\e925";
+  color: #fff;
+}
+.icon-nascient_butterfly:before {
+  content: "\e926";
+  color: #fff;
+}
+.icon-multiplayer_item:before {
+  content: "\e927";
+  color: #fff;
+}
+.icon-miscellaneous:before {
+  content: "\e928";
+  color: #fff;
+}
+.icon-miquellas_lilly:before {
+  content: "\e929";
+  color: #fff;
+}
+.icon-miquellas_cross:before {
+  content: "\e92a";
+  color: #fff;
+}
+.icon-minor_erdtree:before {
+  content: "\e92b";
+  color: #fff;
+}
+.icon-mimics_tear:before {
+  content: "\e92c";
+  color: #fff;
+}
+.icon-merchant:before {
+  content: "\e92d";
+  color: #fff;
+}
+.icon-memory_stone:before {
+  content: "\e92e";
+  color: #fff;
+}
+.icon-martyr_effigy:before {
+  content: "\e92f";
+  color: #fff;
+}
+.icon-map_fragment:before {
+  content: "\e930";
+  color: #fff;
+}
+.icon-lore:before {
+  content: "\e931";
+  color: #fff;
+}
+.icon-location:before {
+  content: "\e932";
+  color: #fff;
+}
+.icon-legacy_dungeon:before {
+  content: "\e933";
+  color: #fff;
+}
+.icon-landmark:before {
+  content: "\e934";
+  color: #fff;
+}
+.icon-key_item:before {
+  content: "\e935";
+  color: #fff;
+}
+.icon-item:before {
+  content: "\e936";
+  color: #fff;
+}
+.icon-invasion:before {
+  content: "\e937";
+  color: #fff;
+}
+.icon-incantation:before {
+  content: "\e938";
+  color: #fff;
+}
+.icon-imp_seal_statue:before {
+  content: "\e939";
+  color: #fff;
+}
+.icon-hidden_passage:before {
+  content: "\e93a";
+  color: #fff;
+}
+.icon-guiding_statue:before {
+  content: "\e93b";
+  color: #fff;
+}
+.icon-great_rune:before {
+  content: "\e93c";
+  color: #fff;
+}
+.icon-great_glovewort:before {
+  content: "\e93d";
+  color: #c2dae8;
+}
+.icon-great_boss:before {
+  content: "\e93e";
+  color: #fff;
+}
+.icon-golden_seed:before {
+  content: "\e93f";
+  color: #fff;
+}
+.icon-golden_rune:before {
+  content: "\e940";
+  color: #fff;
+}
+.icon-glovewort:before {
+  content: "\e941";
+  color: #fff;
+}
+.icon-ghost_glovewort:before {
+  content: "\e942";
+  color: #fff;
+}
+.icon-ghost:before {
+  content: "\e943";
+  color: #fff;
+}
+.icon-gesture:before {
+  content: "\e944";
+  color: #fff;
+}
+.icon-evergaol:before {
+  content: "\e945";
+  color: #fff;
+}
+.icon-enemy:before {
+  content: "\e946";
+  color: #fff;
+}
+.icon-elite_enemy:before {
+  content: "\e947";
+  color: #fff;
+}
+.icon-elevator:before {
+  content: "\e948";
+  color: #fff;
+}
+.icon-easter_egg:before {
+  content: "\e949";
+  color: #fff;
+}
+.icon-dungeon:before {
+  content: "\e94a";
+  color: #fff;
+}
+.icon-dragon_shrine:before {
+  content: "\e94b";
+  color: #fff;
+}
+.icon-dragon_heart:before {
+  content: "\e94c";
+  color: #fff;
+}
+.icon-divine_tower:before {
+  content: "\e94d";
+  color: #fff;
+}
+.icon-demigod:before {
+  content: "\e94e";
+  color: #fff;
+}
+.icon-deathroot:before {
+  content: "\e94f";
+  color: #fff;
+}
+.icon-crystal_tear:before {
+  content: "\e950";
+  color: #fff;
+}
+.icon-creature:before {
+  content: "\e951";
+  color: #fff;
+}
+.icon-crafting_material:before {
+  content: "\e952";
+  color: #fff;
+}
+.icon-cracked_pot:before {
+  content: "\e953";
+  color: #fff;
+}
+.icon-cookbook:before {
+  content: "\e954";
+  color: #fff;
+}
+.icon-consumable:before {
+  content: "\e955";
+  color: #fff;
+}
+.icon-character:before {
+  content: "\e956";
+  color: #fff;
+}
+.icon-cerulean_scarab:before {
+  content: "\e957";
+  color: #fff;
+}
+.icon-boss:before {
+  content: "\e958";
+  color: #fff;
+}
+.icon-bolstering_material:before {
+  content: "\e959";
+  color: #fff;
+}
+.icon-birdseye_telescope:before {
+  content: "\e95a";
+  color: #fff;
+}
+.icon-bell_bearing:before {
+  content: "\e95b";
+  color: #fff;
+}
+.icon-ash_of_war:before {
+  content: "\e95c";
+  color: #fff;
+}
+.icon-armor:before {
+  content: "\e95d";
+  color: #fff;
+}
+.icon-ancient_smithing_stone:before {
+  content: "\e95e";
+  color: #c2dae8;
+}
+.icon-ammunition:before {
+  content: "\e95f";
+  color: #fff;
+}
